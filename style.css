@@ -23,3 +23,7 @@ html{
     margin-right: 50px;
     text-align: center;
 }
+
+.banner {
+    display: flex;
+}

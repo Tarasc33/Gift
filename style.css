@@ -22,7 +22,7 @@ h2{
 }
 
 body{
-    background: linear-gradient(to right, blue, red);
+    background: linear-gradient(to right, blue, rgb(0, 140, 255));
 }
 
 .first{
@@ -30,7 +30,3 @@ body{
     padding-left: 50px;
 }
 
-.banner {
-    display: flex;
-    align-items: center;
-}

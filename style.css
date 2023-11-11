@@ -14,8 +14,7 @@ h2{
 }
 
 .img img { 
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
     max-width: 345px;
     border-radius: 100px;
     /* box-shadow: 10px 2px 30px red; */
